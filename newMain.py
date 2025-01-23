@@ -1,3 +1,6 @@
+# Copyright (c) [2025] [ADITYA GUPTA]
+# Licensed under the MIT License. See LICENSE for details.
+
 from flask import Flask, request, jsonify
 import os
 import joblib
